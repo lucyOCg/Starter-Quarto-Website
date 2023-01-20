@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: My blog
 listing:
   contents: 07-blog
   image-height: 200px
